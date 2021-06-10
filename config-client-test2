@@ -1,0 +1,7 @@
+# Config data exposed by config server
+server:
+  port: 9090
+  
+info:
+  foo: barPropio2
+  faa: soloCliente2
