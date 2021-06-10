@@ -1,5 +1,7 @@
 # Config data exposed by config server
-
+server:
+  port: 8080
+  
 info:
   foo: barPropio
   faa: soloCliente
